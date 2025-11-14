@@ -1,4 +1,4 @@
-# -Credit-Analysis-using-Bank-Data-with-PCA-and-K-Means
+[# -Credit-Analysis-using-Bank-Data-with-PCA-and-K-Means
 Customer/Credit Segmentation using PCA and KMeans – includes project report and Jupyter notebook with full analysis, visualizations, and clustering results.
 # Credit / Customer Segmentation using PCA and KMeans
 
@@ -37,3 +37,4 @@ The repository includes the full project report and implementation notebook.
 ### 1. Create virtual environment (recommended)
 ```bash
 python -m venv venv
+](https://github.com/sujindra210405/-Credit-Analysis-using-Bank-Data-with-PCA-and-K-Means/blob/main/README.md)
